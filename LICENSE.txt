@@ -1,6 +1,22 @@
-MIT License
+---------------
 
-Copyright (c) 2022 Leo Spratt
+Example Solutions (Code) - MIT
+    Copyright (c) 2022 Leo Spratt
+
+Everything Else - CC BY-NC-ND 4.0
+    Copyright (c) 2022 Leo Spratt
+
+---------------
+
+CC BY-NC-ND 4.0
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
+or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+---------------
+
+MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +35,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---------------

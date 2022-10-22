@@ -29,4 +29,4 @@ Descriptions for difficulty levels and what kind of guidance you will get for th
 Please read the contributing guide [here](CONTRIBUTING.md)
 
 ## License
-This project is (c) Leo Spratt 2022, under the MIT license. Full license found in `LICENSE.txt`
+Shown in `LICENSE.txt`.
