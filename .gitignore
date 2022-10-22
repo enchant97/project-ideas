@@ -1,2 +1,6 @@
 # Code editors
 .vscode/
+
+# C#
+**/csharp/obj
+**/csharp/bin
