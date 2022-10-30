@@ -1,0 +1,20 @@
+:root,
+:root[color-theme="light"] {
+    --header-background: #2a76b7;
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --header-background: #2a76b7;
+    }
+}
+
+:root[color-theme="dark"] {
+    --header-background: #235886;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --header-background: #235886;
+    }
+}

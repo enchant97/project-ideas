@@ -1,6 +1,10 @@
 # Code editors
 .vscode/
 
+# Hugo
+/public/
+/themes/hugo-geekdoc/
+
 # C#
-**/csharp/obj
-**/csharp/bin
+/src/**/csharp/obj
+/src/**/csharp/bin

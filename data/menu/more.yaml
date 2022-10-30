@@ -1,0 +1,10 @@
+---
+more:
+  -
+    name: Example Solutions
+    ref: "https://github.com/enchant97/project-ideas"
+    external: true
+  -
+    name: Enchanted Code
+    ref: "https://enchantedcode.co.uk"
+    external: true
