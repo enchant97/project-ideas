@@ -2,7 +2,9 @@
 title: CLI Calculator
 description: "A programming project about building a CLI calculator"
 ---
+## Intro
 This will be a calculator that can take in two numbers from the user and calculate an answer with a given operation (add or subtract).
+
 
 ## Requirements
 - Get two numbers from the user as separate variables
@@ -39,7 +41,7 @@ This will be a calculator that can take in two numbers from the user and calcula
 12. Program finished
 
 
-## Run It
+## Running
 Once completed test your code with some data, if it does not work try having a look at a working example solution and compare your code.
 
 Please be aware example solutions may not look the same as your code, don't panic if your code works but does not look the same. There are many different ways of implementing the solution(s).
@@ -66,7 +68,7 @@ Invalid operator given!
 ```
 
 
-## Finished?
+## Extra
 - Implement the steps indicated with "*Extra*"
 - Add multiplying and dividing
 - Accept more than two numbers

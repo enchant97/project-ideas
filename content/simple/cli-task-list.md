@@ -1,8 +1,11 @@
 ---
 title: CLI Task List
 description: "A programming project about building a CLI Task List app"
+draft: true
 ---
+## Intro
 This will be a project about making a CLI task list app. At the end you will be able to add and remove tasks from a list, it will even save to "disk" allowing it to keep your tasks when the program ends.
+
 
 ## Requirements
 - Write/Read from json file which will store the tasks
@@ -16,8 +19,8 @@ This will be a project about making a CLI task list app. At the end you will be 
 ## Guide
 
 
-## Run It
+## Running
 
 
-## Finished?
+## Extra
 - Implement the steps indicated with "*Extra*"

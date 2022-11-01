@@ -1,6 +1,6 @@
 baseURL = 'https://projects.enchantedcode.co.uk'
 languageCode = 'en'
-title = 'Programming Projects'
+title = 'Enchanted Code - Projects'
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false
@@ -9,12 +9,14 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 disablePathToLower = true
 enableGitInfo = true
+enableRobotsTXT = true
 
 [params]
 geekdocLogo = "favicon.svg"
 geekdocRepo = "https://github.com/enchant97/project-ideas"
 geekdocEditPath = "edit/main"
 geekdocDarkModeDim = false
+geekdocCollapseAllSections = true
 
 [params.geekdocContentLicense]
     name = "CC BY-NC-ND 4.0"
