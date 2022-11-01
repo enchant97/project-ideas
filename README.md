@@ -1,5 +1,5 @@
 # Projects
-A collection of projects ranging in difficulty with example implementations.
+A collection of project ideas ranging in complexity with example implementations.
 
 Once you have found a project idea you like, try to think about how you would implement it before looking at the example implementations.
 
