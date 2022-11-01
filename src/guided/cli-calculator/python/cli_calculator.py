@@ -5,12 +5,12 @@
 
 # Output & collect user input, store in temp_a variable
 temp_a = input("Enter Number A: ")
-# Convert the inputed data into a float, store in num_a variable
+# Convert the inputted data into a float, store in num_a variable
 num_a = float(temp_a)
 
 # Output & collect user input, store in temp_b variable
 temp_b = input("Enter Number B: ")
-# Convert the inputed data into a float, store in num_b variable
+# Convert the inputted data into a float, store in num_b variable
 num_b = float(temp_b)
 
 # Output & collect user input, store in operator variable
