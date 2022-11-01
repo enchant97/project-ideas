@@ -1,6 +1,6 @@
 ---------------
 
-Example Solutions (Code) - MIT
+Example Solutions  (/src directory) - MIT
     Copyright (c) 2022 Leo Spratt
 
 Everything Else - CC BY-NC-ND 4.0
