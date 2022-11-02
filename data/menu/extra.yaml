@@ -1,6 +1,6 @@
 ---
 header:
   - name: GitHub
-    ref: https://github.com/enchant97/project-ideas
+    ref: https://github.com/enchant97/projects
     icon: gdoc_github
     external: true

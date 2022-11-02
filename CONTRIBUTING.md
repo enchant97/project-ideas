@@ -1,7 +1,7 @@
 # Contributing
 Contributions are welcome, however follow these guidelines:
 
-- Suggestions for new project ideas, may not be accepted
+- Suggestions for new projects, may not be accepted
 - Text must be in English UK/US
 - Example implementations in other languages
 - Example implementations without extra dependencies

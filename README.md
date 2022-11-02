@@ -1,8 +1,7 @@
 # Projects
-A collection of project ideas ranging in complexity with example implementations.
+A collection of guided projects, ranging in complexity with example implementations.
 
-Once you have found a project idea you like, try to think about how you would implement it before looking at the example implementations.
-
+## The Site
 Access the projects website [here](https://projects.enchantedcode.co.uk/).
 
 ## Structure
