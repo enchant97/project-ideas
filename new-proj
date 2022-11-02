@@ -1,0 +1,17 @@
+#!/bin/env bash
+#
+# Script allowing quick creation of a new project with place-holder content
+#
+
+if [ $# -ne 2 ]
+then
+    echo "usage: $0 <complexity> <name>"
+    exit 1
+fi
+
+complexity=$1
+name=$2
+
+hugo new $complexity/$name.md -k project
+
+mkdir -p src/$complexity/$name

@@ -12,5 +12,17 @@ Contributions are welcome, however follow these guidelines:
 - Code must work
 - Grammar fixes allowed
 - Don't commit system files (e.g. node_modules)
+- Contributions must be suitable for all ages (no NFSW content allowed)
 - Contributions must be your own work (you own the rights)
 - Contributions must be under the specified license (found in LICENSE.txt)
+- Changes should target the "pre" branch
+
+## New Project
+- Use the "new-proj" script to create a new project. This will create a markdown file and create the implementation folder. *Running this script with no arguments will output the usage guide*
+- Keep your document in draft mode until it's been marked as completed
+- Ensure all sections are completed and there is at least one example implementation
+- If your project gets merged your name will be added in the contributors list
+
+## Editing A Project
+- Ensure changes make sense
+- Overall project requirements should not be changed, unless it has been approved
