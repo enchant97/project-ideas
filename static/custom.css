@@ -18,3 +18,8 @@
         --header-background: #235886;
     }
 }
+
+.gdoc-hint a,
+.gdoc-hint a:visited {
+    color: #1b57a5;
+}

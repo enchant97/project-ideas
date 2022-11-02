@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{ partial "page-header" . }}
+
+<article class="gdoc-markdown gdoc-markdown__align--{{ default " left" (.Page.Params.GeekdocAlign | lower) }}">
+    <img style="width: 30%" src="/favicon.svg" alt="">
+    <h1>Welcome To Enchanted Code - Projects </h1>
+    {{ partial "utils/content" . }}
+</article>
+{{ end }}
