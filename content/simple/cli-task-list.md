@@ -20,6 +20,9 @@ This will be a project about making a CLI task list app. At the end you will be 
 
 
 ## Running
+{{< project/run-intro >}}
+
+### Example Interactions
 
 
 ## Extra

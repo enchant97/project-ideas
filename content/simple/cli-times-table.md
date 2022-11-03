@@ -46,9 +46,7 @@ This project will be a cli app to calculate the times table with a given range.
 
 
 ## Running
-Once completed test your code with some data, if it does not work try having a look at a working example solution and compare your code.
-
-Please be aware example solutions may not look the same as your code, as there are many different ways of implementing the solution(s).
+{{< project/run-intro >}}
 
 ### Example Interactions
 ```

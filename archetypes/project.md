@@ -13,6 +13,9 @@ draft: true
 
 
 ## Running
+{{< project/run-intro >}}
+
+### Example Interactions
 
 
 ## Extra
