@@ -18,7 +18,7 @@ table_range_split = table_range.split("-")  # e.g. ["1", "12"]
 start = int(table_range_split[0])
 end = int(table_range_split[1])
 
-# add 1 to "end" so python's range will end at the correct number
+# Add one as start users start from 1 not 0
 end += 1  # shorter than: 'end = end + 1'
 
 # Output f-string
