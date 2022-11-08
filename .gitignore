@@ -8,3 +8,7 @@
 # C#
 /src/**/csharp/obj
 /src/**/csharp/bin
+
+# Rust & Cargo
+/src/**/rust/target
+/src/**/rust/Cargo.lock
