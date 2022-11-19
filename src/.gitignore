@@ -1,0 +1,10 @@
+# Python
+/**/python/__pycache__
+
+# C#
+/**/csharp/obj
+/**/csharp/bin
+
+# Rust & Cargo
+/**/rust/target
+/**/rust/Cargo.lock

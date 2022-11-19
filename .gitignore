@@ -1,14 +1,12 @@
+# Temp Junk
+[Tt]humbs.db
+*.DS_Store
+~$*
+
 # Code editors
 .vscode/
+.idea/
 
 # Hugo
 /public/
 /themes/hugo-geekdoc/
-
-# C#
-/src/**/csharp/obj
-/src/**/csharp/bin
-
-# Rust & Cargo
-/src/**/rust/target
-/src/**/rust/Cargo.lock
