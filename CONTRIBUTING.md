@@ -1,1 +1,1 @@
-/home/leo/Workspaces/enchantedcode/enchantedcode-projects/content/info/contributing.md
+./content/info/contributing.md
