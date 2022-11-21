@@ -2,6 +2,7 @@
 # CLI Guess The Number Game
 # Made On: Python 3.10
 # Author: Copyright (C) James Clarke <james@james-clarke.ynh.fr>
+# LICENSE: MIT (AKA Expat License), see LICENSE.txt in root of project folder.
 import random
 
 
