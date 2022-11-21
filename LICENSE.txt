@@ -6,6 +6,11 @@ Example Solutions  (/src directory) - MIT
 Everything Else - CC BY-NC-ND 4.0
     Copyright (c) 2022 Leo Spratt
 
+As discussed in the "Contribution Agreement" all contributions will:
+    Grant the project owner (Leo Spratt / @enchant97) non-exclusive,
+    transferable and irrevocable right to sub-license, distribute
+    and sell the contributions.
+
 ---------------
 
 CC BY-NC-ND 4.0
