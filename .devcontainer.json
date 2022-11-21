@@ -1,0 +1,29 @@
+{
+    "name": "Enchanted Code - Projects (DEV)",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+        "ghcr.io/devcontainers/features/hugo:1": {
+            "version": "latest",
+            "extended": true
+        }
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "yzhang.markdown-all-in-one",
+                "streetsidesoftware.code-spell-checker"
+            ],
+            "settings": {
+                "editor.minimap.enabled": false,
+                "cSpell.language": "en-GB",
+                "files.insertFinalNewline": true,
+                "files.trimFinalNewlines": true,
+                "files.trimTrailingWhitespace": true
+            }
+        }
+    },
+    "postCreateCommand": "make install-theme",
+    "forwardPorts": [
+        1313
+    ]
+}
