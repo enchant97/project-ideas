@@ -2,7 +2,7 @@
 title: "Guess the Number"
 description: "A programming project about building a Guess the Number app"
 draft: true
-
+author: JamesClarke7283
 ---
 
 ## Intro
