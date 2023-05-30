@@ -1,6 +1,7 @@
 ---
 title: "Guess the Number"
 description: "A programming project about building a guess the number app"
+tags: ["simple"]
 author: JamesClarke7283
 ---
 ## Intro

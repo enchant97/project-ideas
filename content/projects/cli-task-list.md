@@ -1,6 +1,7 @@
 ---
 title: CLI Task List
 description: "A programming project about building a CLI Task List app"
+tags: ["simple"]
 draft: true
 ---
 ## Intro

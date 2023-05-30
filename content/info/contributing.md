@@ -56,5 +56,5 @@ make help
 To aid the creation of new projects a script is provided:
 
 ```
-./new-proj <complexity> <name>
+./new-proj <name>
 ```

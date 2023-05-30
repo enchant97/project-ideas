@@ -3,29 +3,20 @@
 # Script allowing quick creation of a new project with place-holder content
 #
 
-complexities=(simple moderate complex)
-
-if [ $# -ne 2 ]
+if [ $# -ne 1 ]
 then
-    echo "usage: $0 <complexity> <name>"
+    echo "usage: $0 <name>"
     exit 1
 fi
 
-complexity=$1
-name=$2
+name=$1
 
-# ensure given complexity is valid
-if [[ " ${complexities[*]} " != *" $complexity "* ]]
-then
-    echo "complexity must be: (${complexities[*]})"
-    exit 1
-fi
 # replace spaces with '-'
 name="${name// /-}"
 # make lowercase
 name="${name,,}"
 
 # create hugo page, using the 'project' archetypes
-hugo new $complexity/$name.md -k project
+hugo new $name.md -k project
 # make a project solution(s) directory
-mkdir -p src/$complexity/$name
+mkdir -p src/$name

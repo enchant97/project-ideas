@@ -1,6 +1,7 @@
 ---
 title: "CLI Times Table"
 description: "A programming project about building a cli times table app"
+tags: ["simple"]
 ---
 ## Intro
 This project will be a cli app to calculate the times table with a given range.

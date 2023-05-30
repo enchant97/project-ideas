@@ -1,6 +1,7 @@
 ---
 title: CLI Calculator
 description: "A programming project about building a CLI calculator"
+tags: ["simple"]
 ---
 ## Intro
 This will be a calculator that can take in two numbers from the user and calculate an answer with a given operation (add or subtract).
