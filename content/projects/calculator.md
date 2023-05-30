@@ -1,5 +1,5 @@
 ---
-title: CLI Calculator
+title: Calculator
 description: "A programming project about building a CLI calculator"
 tags: ["simple"]
 ---

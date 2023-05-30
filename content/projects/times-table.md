@@ -1,5 +1,5 @@
 ---
-title: "CLI Times Table"
+title: "Times Table"
 description: "A programming project about building a cli times table app"
 tags: ["simple"]
 ---
