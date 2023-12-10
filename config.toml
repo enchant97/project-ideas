@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [params]
 geekdocLogo = "favicon.svg"
-geekdocRepo = "https://github.com/enchant97/projects"
+geekdocRepo = "https://github.com/enchanted-code/projects"
 geekdocEditPath = "edit/main"
 geekdocDarkModeDim = false
 geekdocCollapseAllSections = true
